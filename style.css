@@ -1,3 +1,7 @@
+body{
+	margin-bottom: 200px;
+}
+
 .container {
 	background-color: #f4f4f4;
 	border: green 1px solid;
@@ -17,3 +21,4 @@
 , .col-7, .col-8, .col-9, .col-10, .col-11, .col-12{
 	border: green 1px solid;
 }
+

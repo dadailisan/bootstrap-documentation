@@ -140,7 +140,7 @@
 	  <div class="row">
 	    <div class="col">Column</div>
 	    <div class="col">Column</div>
-	    <!--width 100%-->
+	    <!--width 100% to create new line-->
 	    <div class="w-100"></div>
 	    <div class="col">Column</div>
 	    <div class="col">Column</div>
@@ -148,7 +148,7 @@
 	</div>
 
 <br><hr>
-	<!-- setting one column width-->
+	<!-- setting one column width with wider portion of fixed portion-->
 	<div class="container">
 	  <div class="row">
 	    <div class="col">
@@ -174,6 +174,57 @@
 	  </div>
 	</div>
 
+<br><hr>
+	<!--Variable width content
+		class="col-auto"
+		column size will adjust depending on the content on the column-->
+
+	<div class="container">
+	  <div class="row justify-content-md-center">
+	    <div class="col col-lg-2">
+	      1 of 3
+	    </div>
+	    <div class="col-md-auto">
+	      Variable width content
+	    </div>
+	    <div class="col col-lg-2">
+	      3 of 3
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="col">
+	      1 of 3
+	    </div>
+	    <div class="col-md-auto">
+	      Variable width content
+	    </div>
+	    <div class="col col-lg-2">
+	      3 of 3
+	    </div>
+	  </div>
+	</div>
+<br><hr>
+	<!--Equal-width multi-row-->
+	<div class="row">
+	  <div class="col">col</div>
+	  <div class="col">col</div>
+	  <div class="w-100"></div>
+	  <div class="col">col</div>
+	  <div class="col">col</div>
+	</div>
+<br><hr>
+	<div class="row">
+	  <div class="col">col</div>
+	  <div class="col">col</div>
+	  <div class="col">col</div>
+	  <div class="col">col</div>
+	</div>
+	<div class="row">
+	  <div class="col-8">col-8</div>
+	  <div class="col-4">col-4</div>
+	</div>
+
+	
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
