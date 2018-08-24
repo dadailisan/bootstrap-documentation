@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
     <title>Bootstrap v4.1.3</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <!--LAYOUT-->
@@ -18,6 +19,7 @@
 	<div class="container">
 	  Container
 	</div>
+	<br>
 
 	<!--container-fluid class responsive & fullwidth-->
 	<div class="container-fluid">
@@ -85,6 +87,92 @@
 
 	To handle overlapping borders within components (e.g., buttons and inputs in input groups), we use low single digit z-index values of 1, 2, and 3 for default, hover, and active states. On hover/focus/active, we bring a particular element to the forefront with a higher z-index value to show their border over the sibling elements.
 -->
+
+	<!--GRID SYSTEM
+	Use powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.
+
+	Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content. It’s built with flexbox and is fully responsive.
+	
+	**12 column system
+
+	-->
+<br><hr>
+	<!--How it works-->
+	<div class="container">
+	  <div class="row">
+	    <div class="col-4">
+	      One of three columns
+	    </div>
+	    <div class="col-4">
+	      One of three columns
+	    </div>
+	    <div class="col-4">
+	      One of three columns
+	    </div>
+	  </div>
+	</div>
+<br><hr>
+	<!--Equal/Auto columns Width-->
+	<div class="container">
+	  <div class="row">
+	    <div class="col">
+	      1 of 2
+	    </div>
+	    <div class="col">
+	      2 of 2
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="col">
+	      1 of 3
+	    </div>
+	    <div class="col">
+	      2 of 3
+	    </div>
+	    <div class="col">
+	      3 of 3
+	    </div>
+	  </div>
+	</div>
+<br><hr>
+	<!--Equal-width columns can be broken into multiple lines-->
+	<div class="container">
+	  <div class="row">
+	    <div class="col">Column</div>
+	    <div class="col">Column</div>
+	    <!--width 100%-->
+	    <div class="w-100"></div>
+	    <div class="col">Column</div>
+	    <div class="col">Column</div>
+	  </div>
+	</div>
+
+<br><hr>
+	<!-- setting one column width-->
+	<div class="container">
+	  <div class="row">
+	    <div class="col">
+	      1 of 3
+	    </div>
+	    <div class="col-6">
+	      2 of 3 (wider)
+	    </div>
+	    <div class="col">
+	      3 of 3
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="col">
+	      1 of 3
+	    </div>
+	    <div class="col-5">
+	      2 of 3 (wider)
+	    </div>
+	    <div class="col">
+	      3 of 3
+	    </div>
+	  </div>
+	</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
