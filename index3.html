@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="style3.css"
 
-    <title>LAYOUT > MEDIA OBJECT</title>
+    <title>LAYOUT > MEDIA OBJECT and UTILITIES FOR LAYOUT</title>
   </head>
   <body>
     <!--LAYOUT > MEDIA OBJECT -->
@@ -37,7 +37,7 @@
 
 	    <div class="media mt-3">
 	      <a class="pr-3" href="#">
-	      	<!--class="pr-3" like mr, pr(meaning?)on the right of the link-->
+	      	<!--class="pr-3" padding on the right of the link-->
 	        <img src=".../64x64" alt="Generic placeholder image">
 	      </a>
 	      <div class="media-body">
@@ -73,7 +73,55 @@
 	  <img class="ml-3" src=".../64x64" alt="Generic placeholder image">
 	  <!--class="ml-3" margin left. add order-1 to have the image first then change ml to mr-->
 	</div>
+	<hr><br>
 
+	<!--Media List
+	Because the media object has so few structural requirements, you can also use these classes on list HTML elements. On your <ul> or <ol>, add the .list-unstyled to remove any browser default list styles, and then apply .media to your <li>s. As always, use spacing utilities wherever needed to fine tune.-->
+
+	<ul class="list-unstyled">
+		<!-- class="list-unstyled remove any browser default list styles" 
+			spacing utilities: mr, mt, mb, ml-->
+	  <li class="media">
+	    <img class="mr-3" src=".../64x64" alt="Generic placeholder image">
+	    <div class="media-body">
+	      <h5 class="mt-0 mb-1">List-based media object</h5>
+	      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	    </div>
+	  </li>
+	  <li class="media my-4">
+	  	<!--class="my-4" means top and bottom margin-->
+	    <img class="mr-3" src=".../64x64" alt="Generic placeholder image">
+	    <div class="media-body">
+	      <h5 class="mt-0 mb-1">List-based media object</h5>
+	      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	    </div>
+	  </li>
+	  <li class="media">
+	    <img class="mr-3" src=".../64x64" alt="Generic placeholder image">
+	    <div class="media-body">
+	      <h5 class="mt-0 mb-1">List-based media object</h5>
+	      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	    </div>
+	  </li>
+	</ul>	
+	<hr><br>
+
+	<!--Utilities for layout
+	For faster mobile-friendly and responsive development, Bootstrap includes dozens of utility classes for showing, hiding, aligning, and spacing content.
+
+	Changing display
+	Use our display utilities for responsively toggling common values of the display property. Mix it with our grid system, content, or components to show or hide them across specific viewports.
+
+	Flexbox options
+	Bootstrap 4 is built with flexbox, but not every element’s display has been changed to display: flex as this would add many unnecessary overrides and unexpectedly change key browser behaviors. Most of our components are built with flexbox enabled.
+
+	Should you need to add display: flex to an element, do so with .d-flex or one of the responsive variants (e.g., .d-sm-flex). You’ll need this class or display value to allow the use of our extra flexbox utilities for sizing, alignment, spacing, and more.
+
+	Margin and padding
+	Use the margin and padding spacing utilities to control how elements and components are spaced and sized. Bootstrap 4 includes a five-level scale for spacing utilities, based on a 1rem value default $spacer variable. Choose values for all viewports (e.g., .mr-3 for margin-right: 1rem), or pick responsive variants to target specific viewports (e.g., .mr-md-3 for margin-right: 1rem starting at the md breakpoint).
+
+	Toggle visibility
+	When toggling display isn’t needed, you can toggle the visibility of an element with our visibility utilities. Invisible elements will still affect the layout of the page, but are visually hidden from visitors.-->
 
 
     <!-- Optional JavaScript -->
