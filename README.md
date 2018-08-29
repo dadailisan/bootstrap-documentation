@@ -55,4 +55,11 @@ index5_4
 index5_5
 ![index5_5](https://user-images.githubusercontent.com/41881269/44759040-57a34100-ab6a-11e8-8cf2-08162c36cd65.PNG)
 
-index6.html -->writing using inline and multi block of codes 
+index6.html -->writing using inline and multi block of codes. image classes
+
+index6 homepage: 
+index6_1
+![index6_1](https://user-images.githubusercontent.com/41881269/44760306-cc797980-ab70-11e8-9538-caab52ee6e35.PNG)
+
+index6_2
+![index6_2](https://user-images.githubusercontent.com/41881269/44760307-cf746a00-ab70-11e8-8057-acb6c8f66836.PNG)

@@ -7,8 +7,9 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 
-    <title>CONTENT > CODE</title>
+    <title>CONTENT > CODE and IMAGES</title>
   </head>
   <body>
     <br>
@@ -42,6 +43,42 @@
     <!--Sample output
     For indicating sample output from a program use the <samp> tag.-->
     <samp>This text is meant to be treated as sample output from a computer program.</samp>
+    <hr><br>
+
+    <!--IMAGES
+    Documentation and examples for opting images into responsive behavior (so they never become larger than their parent elements) and add lightweight styles to them—all via classes.-->
+
+    <!--Responsive Images
+    Images in Bootstrap are made responsive with .img-fluid. max-width: 100%; and height: auto; are applied to the image so that it scales with the parent element.-->
+    <img src="..." class="img-fluid box" alt="Responsive image">
+    <hr><br>    
+
+    <!--Image Thumbnails 
+      In addition to our border-radius utilities, you can use .img-thumbnail to give an image a rounded 1px border appearance.-->
+    <img src="..." alt="..." class="img-thumbnail box">
+    <hr><br>
+
+    <!--Aligning Images
+      Align images with the helper float classes or text alignment classes. block-level images can be centered using the .mx-auto margin utility class.-->
+    <img src="..." class="rounded float-left box" alt="...">
+    <img src="..." class="rounded float-right box" alt="...">
+    <hr><br>
+
+    <img src="..." class="rounded mx-auto d-block box" alt="..."><!--I dont know why it wont center itself-->
+    <!-- mx is margin x axis(left and right margin)--> 
+    <hr><br>
+
+    <div class="text-center box">
+      <img src="..." class="rounded box" alt="...">
+    </div>
+    <hr><br>
+
+    <!--Picture
+    If you are using the <picture> element to specify multiple <source> elements for a specific <img>, make sure to add the .img-* classes to the <img> and not to the <picture> tag.-->
+    ​<picture class="box">
+      <source srcset="..." type="image/svg+xml">
+      <img src="..." class="img-fluid img-thumbnail box" alt="...">
+    </picture>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
