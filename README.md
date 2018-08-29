@@ -55,7 +55,7 @@ index5_4
 index5_5
 ![index5_5](https://user-images.githubusercontent.com/41881269/44759040-57a34100-ab6a-11e8-8cf2-08162c36cd65.PNG)
 
-index6.html -->writing using inline and multi block of codes. image classes
+index6.html -->writing using inline and multi block of codes. image classes, I also link the style.css to have borders for visualization.
 
 index6 homepage: 
 index6_1
@@ -63,3 +63,33 @@ index6_1
 
 index6_2
 ![index6_2](https://user-images.githubusercontent.com/41881269/44760307-cf746a00-ab70-11e8-8057-acb6c8f66836.PNG)
+
+index7.html -->this part deals with classes for tables, borders/colors/reponsiveness
+
+index7 homepage: 
+index7_1
+![index7_1](https://user-images.githubusercontent.com/41881269/44775360-031eb680-aba8-11e8-9a7c-a6a77e0bfe12.PNG)
+
+index7_2
+![index7_2](https://user-images.githubusercontent.com/41881269/44775365-04e87a00-aba8-11e8-87b8-021f7e0873ef.PNG)
+
+index7_3
+![index7_3](https://user-images.githubusercontent.com/41881269/44775369-0619a700-aba8-11e8-95a7-50efa42ef9d0.PNG)
+
+index7_4
+![index7_4](https://user-images.githubusercontent.com/41881269/44775372-087c0100-aba8-11e8-82f2-c9b0ea7043f8.PNG)
+
+index7_5
+![index7_5](https://user-images.githubusercontent.com/41881269/44775376-0b76f180-aba8-11e8-9a4b-75addf0aea89.PNG)
+
+index7_6
+![index7_6](https://user-images.githubusercontent.com/41881269/44775385-0dd94b80-aba8-11e8-93f6-917356ce956f.PNG)
+
+index7_7
+![index7_7](https://user-images.githubusercontent.com/41881269/44775390-0fa30f00-aba8-11e8-941e-ce2a5605a2e6.PNG)
+
+index7_8
+![index7_8](https://user-images.githubusercontent.com/41881269/44775393-12056900-aba8-11e8-8d74-73f6200510de.PNG)
+
+index7_9
+![index7_9](https://user-images.githubusercontent.com/41881269/44775443-35301880-aba8-11e8-8255-36a0962971e1.PNG)
