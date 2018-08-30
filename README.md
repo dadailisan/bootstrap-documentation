@@ -93,3 +93,22 @@ index7_8
 
 index7_9
 ![index7_9](https://user-images.githubusercontent.com/41881269/44775443-35301880-aba8-11e8-8255-36a0962971e1.PNG)
+
+
+index8.html --> about the content figure tag and classes. Components alerts and some js.
+
+index8 homepage: 
+index8_1
+![index8_1](https://user-images.githubusercontent.com/41881269/44824823-3dd12f00-ac3a-11e8-95fb-fa052911fb79.PNG)
+
+index8_2
+![index8_2](https://user-images.githubusercontent.com/41881269/44824824-40338900-ac3a-11e8-96fe-2979643844e4.PNG)
+
+index8_3
+![index8_3](https://user-images.githubusercontent.com/41881269/44824826-4164b600-ac3a-11e8-9f91-847778e4bd79.PNG)
+
+index8_4
+![index8_4](https://user-images.githubusercontent.com/41881269/44824827-432e7980-ac3a-11e8-8ee0-fa98abccb03d.PNG)
+
+index8_5
+![index8_5](https://user-images.githubusercontent.com/41881269/44824831-4590d380-ac3a-11e8-8838-da46a1a7e1d8.PNG) 
