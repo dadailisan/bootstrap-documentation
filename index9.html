@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>COMPONENTS > BADGE</title>
+  </head>
+  <body class="mb-4">
+    <br>
+    <h2>Badges</h2>
+    Documentation and examples for badges, our small count and labeling component.
+    <hr>
+    <h2>Example</h2>
+    Badges scale to match the size of the immediate parent element by using relative font sizing and em units.
+    <h1>Example heading <span class="badge badge-secondary">New</span></h1>
+    <h2>Example heading <span class="badge badge-secondary">New</span></h2>
+    <h3>Example heading <span class="badge badge-secondary">New</span></h3>
+    <h4>Example heading <span class="badge badge-secondary">New</span></h4>
+    <h5>Example heading <span class="badge badge-secondary">New</span></h5>
+    <h6>Example heading <span class="badge badge-secondary">New</span></h6>
+    <hr>
+    <p>Badges can be used as part of links or buttons to provide a counter.</p>
+    <button type="button" class="btn btn-primary mb-2">
+      Notifications <span class="badge badge-light">4</span>
+    </button>
+    <p>Note that depending on how they are used, badges may be confusing for users of screen readers and similar assistive technologies. While the styling of badges provides a visual cue as to their purpose, these users will simply be presented with the content of the badge. Depending on the specific situation, these badges may seem like random additional words or numbers at the end of a sentence, link, or button.</p>
+
+    <p>Unless the context is clear (as with the “Notifications” example, where it is understood that the “4” is the number of notifications), consider including additional context with a visually hidden piece of additional text.</p>
+
+    <button type="button" class="btn btn-primary">
+      Profile <span class="badge badge-light">9</span>
+      <span class="sr-only">unread messages</span>
+    </button>
+    <hr>
+    <h2>Contextual variations</h2>
+    <p>Add any of the below mentioned modifier classes to change the appearance of a badge.</p>
+    <span class="badge badge-primary">Primary</span>
+    <span class="badge badge-secondary">Secondary</span>
+    <span class="badge badge-success">Success</span>
+    <span class="badge badge-danger">Danger</span>
+    <span class="badge badge-warning">Warning</span>
+    <span class="badge badge-info">Info</span>
+    <span class="badge badge-light">Light</span>
+    <span class="badge badge-dark">Dark</span>
+    <hr>
+
+    <h2>Pill badges</h2>
+    <p>Use the .badge-pill modifier class to make badges more rounded (with a larger border-radius and additional horizontal padding).</p>
+    <span class="badge badge-pill badge-primary">Primary</span>
+    <span class="badge badge-pill badge-secondary">Secondary</span>
+    <span class="badge badge-pill badge-success">Success</span>
+    <span class="badge badge-pill badge-danger">Danger</span>
+    <span class="badge badge-pill badge-warning">Warning</span>
+    <span class="badge badge-pill badge-info">Info</span>
+    <span class="badge badge-pill badge-light">Light</span>
+    <span class="badge badge-pill badge-dark">Dark</span>
+    <hr>
+
+    <h2>Links</h2>
+    <p>Using the contextual .badge-* classes on an <code>&lt;a&lt;</code> element quickly provide <em>actionable</em> badges with hover and focus states.</p>
+    <a href="#" class="badge badge-pill badge-primary">Primary</a>
+    <a href="#" class="badge badge-secondary">Secondary</a>
+    <a href="#" class="badge badge-success">Success</a>
+    <a href="#" class="badge badge-danger">Danger</a>
+    <a href="#" class="badge badge-warning">Warning</a>
+    <a href="#" class="badge badge-info">Info</a>
+    <a href="#" class="badge badge-light">Light</a>
+    <a href="#" class="badge badge-dark">Dark</a>
+    <hr>
+
+    <h2>Breadcrumb</h2>
+    <p>Indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS.</p>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item active" aria-current="page">Home</li>
+      </ol>
+    </nav>
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Home</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Library</li>
+      </ol>
+    </nav>
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Home</a></li>
+        <li class="breadcrumb-item"><a href="#">Library</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Data</li>
+      </ol>
+    </nav>
+    <hr>
+    <h2>Changing the separator</h2>
+    <p>Separators are automatically added in CSS through <em>::before</em> and <em>content</em>. They can be changed by changing <code>$breadcrumb-divider</code>. The quote function is needed to generate the quotes around a string, so if you want <code>></code> as seperator, you can use this:</p>
+    <code>$breadcrumb-divider: quote(">");</code>
+    <p>It’s also possible to use a <strong>base64 embedded SVG icon</strong>:</p>
+    <p><code>$breadcrumb-divider: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjgiPjxwYXRoIGQ9Ik0yLjUgMEwxIDEuNSAzLjUgNCAxIDYuNSAyLjUgOGw0LTQtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIi8+PC9zdmc+);</code></p>
+    <p>The separator can be removed by setting <code>$breadcrumb-divider</code> to none:</p>
+    <code>$breadcrumb-divider: none;</code>
+    <hr>
+
+    <h2>Accessibility</h2>
+    <p>Since breadcrumbs provide a navigation, it’s a good idea to add a meaningful label such as <code>aria-label="breadcrumb"</code> to describe the type of navigation provided in the <code>&lt;nav&gt;</code> element, as well as applying an <code>aria-current="page"</code> to the last item of the set to indicate that it represents the current page.</p>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>

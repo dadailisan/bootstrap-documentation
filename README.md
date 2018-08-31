@@ -111,4 +111,19 @@ index8_4
 ![index8_4](https://user-images.githubusercontent.com/41881269/44824827-432e7980-ac3a-11e8-8ee0-fa98abccb03d.PNG)
 
 index8_5
-![index8_5](https://user-images.githubusercontent.com/41881269/44824831-4590d380-ac3a-11e8-8838-da46a1a7e1d8.PNG) 
+![index8_5](https://user-images.githubusercontent.com/41881269/44824831-4590d380-ac3a-11e8-8838-da46a1a7e1d8.PNG)
+
+index9.html -->about badges and breadcrumb(a type of nav bar i guess)
+
+index9 homepage: 
+index9_1
+![index9_1](https://user-images.githubusercontent.com/41881269/44896313-6b95a100-ad2a-11e8-8150-2778ff69035a.PNG)
+
+index9_2
+![index9_2](https://user-images.githubusercontent.com/41881269/44896319-6f292800-ad2a-11e8-9e94-47397b29d320.PNG)
+
+index9_3
+![index9_3](https://user-images.githubusercontent.com/41881269/44896325-72241880-ad2a-11e8-95c5-5a1064eb6061.PNG)
+
+index9_4
+![index9_4](https://user-images.githubusercontent.com/41881269/44896331-76503600-ad2a-11e8-8fe0-ec0fae3fca17.PNG) 
