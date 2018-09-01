@@ -126,4 +126,20 @@ index9_3
 ![index9_3](https://user-images.githubusercontent.com/41881269/44896325-72241880-ad2a-11e8-95c5-5a1064eb6061.PNG)
 
 index9_4
-![index9_4](https://user-images.githubusercontent.com/41881269/44896331-76503600-ad2a-11e8-8fe0-ec0fae3fca17.PNG) 
+![index9_4](https://user-images.githubusercontent.com/41881269/44896331-76503600-ad2a-11e8-8fe0-ec0fae3fca17.PNG)
+
+index10 homepage:  --> about button classes
+index10_1
+![index10_1](https://user-images.githubusercontent.com/41881269/44941651-858bbe00-add4-11e8-91db-7ea3306b34db.PNG)
+
+index10_2
+![index10_2](https://user-images.githubusercontent.com/41881269/44941652-8886ae80-add4-11e8-9a32-fd3bfbf55c3b.PNG)
+
+index10_3
+![index10_3](https://user-images.githubusercontent.com/41881269/44941657-8cb2cc00-add4-11e8-859c-5d98da26c46d.PNG)
+
+index10_4
+![index10_4](https://user-images.githubusercontent.com/41881269/44941655-8c1a3580-add4-11e8-9caf-4ad94eb17e1f.PNG)
+
+index10_5
+![index10_5](https://user-images.githubusercontent.com/41881269/44941656-8c1a3580-add4-11e8-96ae-452875bb77e5.PNG)
