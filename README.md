@@ -143,3 +143,27 @@ index10_4
 
 index10_5
 ![index10_5](https://user-images.githubusercontent.com/41881269/44941656-8c1a3580-add4-11e8-96ae-452875bb77e5.PNG)
+
+index11 homepage: --> about card styling
+
+index11-1 to 20
+![index11_1](https://user-images.githubusercontent.com/41881269/45007008-4bb5f400-b02e-11e8-9d63-9a2f203978c0.PNG)
+![index11_2](https://user-images.githubusercontent.com/41881269/45007011-4eb0e480-b02e-11e8-8f97-e71ac03ff5a5.PNG)
+![index11_3](https://user-images.githubusercontent.com/41881269/45007015-51133e80-b02e-11e8-87b0-8c020582aee2.PNG)
+![index11_4](https://user-images.githubusercontent.com/41881269/45007017-53759880-b02e-11e8-80db-49a7b4e4f131.PNG)
+![index11_5](https://user-images.githubusercontent.com/41881269/45007022-596b7980-b02e-11e8-9dec-c70e88ba1fb7.PNG)
+![index11_6](https://user-images.githubusercontent.com/41881269/45007023-596b7980-b02e-11e8-849f-423e2ca0e9d6.PNG)
+![index11_7](https://user-images.githubusercontent.com/41881269/45007026-5a041000-b02e-11e8-9438-8f0f0132c5ce.PNG)
+![index11_8](https://user-images.githubusercontent.com/41881269/45007031-5ff9f100-b02e-11e8-811e-74ee781bfb12.PNG)
+![index11_9](https://user-images.githubusercontent.com/41881269/45007034-62f4e180-b02e-11e8-8995-afe53fd58ed6.PNG)
+![index11_10](https://user-images.githubusercontent.com/41881269/45007037-65efd200-b02e-11e8-9070-98a5032335ae.PNG)
+![index11_11](https://user-images.githubusercontent.com/41881269/45007038-69835900-b02e-11e8-91b6-64844e682494.PNG)
+![index11_12](https://user-images.githubusercontent.com/41881269/45007040-6d16e000-b02e-11e8-8267-5647e5999089.PNG)
+![index11_13](https://user-images.githubusercontent.com/41881269/45007045-7142fd80-b02e-11e8-8ade-bb6e14cd6685.PNG)
+![index11_14](https://user-images.githubusercontent.com/41881269/45007049-73a55780-b02e-11e8-83c0-98541c2f858b.PNG)
+![index11_15](https://user-images.githubusercontent.com/41881269/45007051-76a04800-b02e-11e8-9ca2-1dae3409d549.PNG)
+![index11_16](https://user-images.githubusercontent.com/41881269/45007053-7acc6580-b02e-11e8-9209-f688b368ee45.PNG)
+![index11_17](https://user-images.githubusercontent.com/41881269/45007058-7e5fec80-b02e-11e8-8eee-646c527e5a78.PNG)
+![index11_18](https://user-images.githubusercontent.com/41881269/45007061-81f37380-b02e-11e8-9eb2-5eea3b9e4714.PNG)
+![index11_19](https://user-images.githubusercontent.com/41881269/45007062-8324a080-b02e-11e8-9ba5-a3d04676ece5.PNG)
+![index11_20](https://user-images.githubusercontent.com/41881269/45007066-861f9100-b02e-11e8-9a62-51f2de0fe647.PNG)
