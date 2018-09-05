@@ -167,3 +167,16 @@ index11-1 to 20
 ![index11_18](https://user-images.githubusercontent.com/41881269/45007061-81f37380-b02e-11e8-9eb2-5eea3b9e4714.PNG)
 ![index11_19](https://user-images.githubusercontent.com/41881269/45007062-8324a080-b02e-11e8-9ba5-a3d04676ece5.PNG)
 ![index11_20](https://user-images.githubusercontent.com/41881269/45007066-861f9100-b02e-11e8-9a62-51f2de0fe647.PNG)
+
+index12 homepage: --> introduces the use of carousel on bootstrap.
+
+index12-1 to 9
+![index12_1](https://user-images.githubusercontent.com/41881269/45072054-d3256500-b10b-11e8-81cf-8e9e091b6f8a.PNG)
+![index12_2](https://user-images.githubusercontent.com/41881269/45072050-d02a7480-b10b-11e8-9a48-39f8fafc84e5.PNG)
+![index12_3](https://user-images.githubusercontent.com/41881269/45072057-d587bf00-b10b-11e8-9e39-0dcfdb89ee17.PNG)
+![index12_4](https://user-images.githubusercontent.com/41881269/45072059-d7ea1900-b10b-11e8-9092-3e9011d95867.PNG)
+![index12_5](https://user-images.githubusercontent.com/41881269/45072062-d9b3dc80-b10b-11e8-95a9-ce15841666e6.PNG)
+![index12_6](https://user-images.githubusercontent.com/41881269/45072070-dd476380-b10b-11e8-81a6-de937dc88e66.PNG)
+![index12_7](https://user-images.githubusercontent.com/41881269/45072074-e0425400-b10b-11e8-9893-7a276f378f78.PNG)
+![index12_8](https://user-images.githubusercontent.com/41881269/45072076-e2a4ae00-b10b-11e8-94b3-d2011a61e2ea.PNG)
+![index12_9](https://user-images.githubusercontent.com/41881269/45072078-e46e7180-b10b-11e8-82e8-fa40d32a37f7.PNG)
