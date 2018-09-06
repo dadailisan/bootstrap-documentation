@@ -180,3 +180,11 @@ index12-1 to 9
 ![index12_7](https://user-images.githubusercontent.com/41881269/45072074-e0425400-b10b-11e8-9893-7a276f378f78.PNG)
 ![index12_8](https://user-images.githubusercontent.com/41881269/45072076-e2a4ae00-b10b-11e8-94b3-d2011a61e2ea.PNG)
 ![index12_9](https://user-images.githubusercontent.com/41881269/45072078-e46e7180-b10b-11e8-82e8-fa40d32a37f7.PNG)
+
+index13-collapse homepage: --> collapse bootstrap classes
+index13-1 to 5
+![index13_1](https://user-images.githubusercontent.com/41881269/45135823-f582b580-b1d3-11e8-8d69-2582548b843f.PNG)
+![index13_2](https://user-images.githubusercontent.com/41881269/45135825-f87da600-b1d3-11e8-867d-b1b782169f12.PNG)
+![index13_3](https://user-images.githubusercontent.com/41881269/45135830-fb789680-b1d3-11e8-8743-a60b9c0ce6de.PNG)
+![index13_4](https://user-images.githubusercontent.com/41881269/45135832-fd425a00-b1d3-11e8-8a1b-7c354a9c61e1.PNG)
+![index13_5](https://user-images.githubusercontent.com/41881269/45135837-00d5e100-b1d4-11e8-93a5-4390f9f80c48.PNG)
