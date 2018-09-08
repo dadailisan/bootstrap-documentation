@@ -188,3 +188,13 @@ index13-1 to 5
 ![index13_3](https://user-images.githubusercontent.com/41881269/45135830-fb789680-b1d3-11e8-8743-a60b9c0ce6de.PNG)
 ![index13_4](https://user-images.githubusercontent.com/41881269/45135832-fd425a00-b1d3-11e8-8a1b-7c354a9c61e1.PNG)
 ![index13_5](https://user-images.githubusercontent.com/41881269/45135837-00d5e100-b1d4-11e8-93a5-4390f9f80c48.PNG)
+
+index14-dropdowns homepage: --> dropdowns bootstrap uses
+
+index14-1 to 6
+![index14_1](https://user-images.githubusercontent.com/41881269/45252012-c199c280-b382-11e8-8ddf-e2752db0382a.PNG)
+![index14_2](https://user-images.githubusercontent.com/41881269/45252013-c2325900-b382-11e8-846c-9e9afef87182.PNG)
+![index14_3](https://user-images.githubusercontent.com/41881269/45252014-c2325900-b382-11e8-8195-cbc2f2b193ec.PNG)
+![index14_4](https://user-images.githubusercontent.com/41881269/45252015-c2caef80-b382-11e8-8613-e90eff3f59c8.PNG)
+![index14_5](https://user-images.githubusercontent.com/41881269/45252016-c2caef80-b382-11e8-813f-2a8887e2bf07.PNG)
+![index14_6](https://user-images.githubusercontent.com/41881269/45252017-c2caef80-b382-11e8-9aa7-3fa60937dcbf.PNG)
